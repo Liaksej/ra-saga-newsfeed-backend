@@ -1,4 +1,4 @@
-## ra-saga-search-server
+## ra-saga-newsfeed-server
 
 
 Клиент: https://ra-saga-newsfeed-client.vercel.app
